@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836698649249",
+    "project_id": "yolop-a8a75",
+    "storage_bucket": "yolop-a8a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836698649249:android:47dae0d2ee54d1e9ebb6e0",
+        "android_client_info": {
+          "package_name": "com.socketVal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836698649249-1avsv5qe8ie2jaap4fpio153fans10j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socketVal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "836698649249-gv3kefoe6ul0dubbcr849rfvi242b6f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmqsJ9JLzP7o4YxDfOw2a6PToXtgts7O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836698649249-gv3kefoe6ul0dubbcr849rfvi242b6f7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836698649249-lbshbo07v18eankn0fldn40gcio3ba0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.socketVal.yolop",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

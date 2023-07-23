@@ -1,0 +1,6 @@
+module Pods_yolopApp_yolopAppTests {
+  umbrella header "Pods-socketVal-yolopAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-crashlytics-ndk:18.2.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ea5189aec3d1a93d689596fae377442c/transformed/jetified-firebase-crashlytics-ndk-18.2.11/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea5189aec3d1a93d689596fae377442c/transformed/jetified-firebase-crashlytics-ndk-18.2.11/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea5189aec3d1a93d689596fae377442c/transformed/jetified-firebase-crashlytics-ndk-18.2.11/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-crashlytics-ndk/18.2.11/fc9a6a02e09ec886bcf15b802000d8aabdc0c928/firebase-crashlytics-ndk-18.2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

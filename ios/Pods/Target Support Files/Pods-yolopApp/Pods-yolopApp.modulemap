@@ -1,0 +1,6 @@
+module Pods_yolopApp {
+  umbrella header "Pods-socketVal-umbrella.h"
+
+  export *
+  module * { export * }
+}

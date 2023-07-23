@@ -1,0 +1,11 @@
+export const PUSH_TOKEN = 'PUSH_TOKEN';
+export const FILTER_DATA = 'FILTER_DATA';
+
+export const SORT = 'SORT';
+export const SORT_SUCCESS = 'SORT_SUCCESS';
+
+export const CATEGORIES = 'CATEGORIES';
+export const CATEGORIES_SUCCESS = 'CATEGORIES_SUCCESS';
+export const CATEGORIES_UPDATE = 'CATEGORIES_UPDATE';
+export const CATEGORIES_CLEAR = 'CATEGORIES_CLEAR';
+export const REFER_CODE = 'REFER_CODE';

@@ -26,7 +26,6 @@ function* upcomingAuctionRequests() {
     recordError(error);
   }
 }
-
 function* cancelledAuctionRequests() {
   try {
     const response = yield Request.get(Config.Login);

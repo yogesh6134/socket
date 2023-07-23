@@ -86,7 +86,6 @@ export default function StackNavigation() {
   if (loading) {
     return null;
   }
-
   if (visible) {
     return <RaffelWinner stateChanger={setVisible} />;
   }
